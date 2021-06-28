@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IGM0937
+- 👋 Hi, I’m Igor Goran Mačukat (@IGM0937)
 - 🖥️ I'm a Software Engineer
 - 📚 I moslty work in Java day to day
 - 👀 But I’m interested in joining the Open Source community
