@@ -4,7 +4,6 @@
 - 👀 But I’m interested in joining the Open Source community
 - 💞️ I’m looking to collaborate on anything and make a difference
 - 🎓 Hopefully learn something new in the process
-- 🌱 I’m also learning Python 3 and working on my own project, [AutoKait](https://github.com/IGM0937/AutoKait)
 - 📫 How to reach me at my username at gmail dot com
 
 <!---
